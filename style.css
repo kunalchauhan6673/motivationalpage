@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+.poster {
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+    /* or we can also set the margin-top: 10%; instead of 3 above */
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+}
+img {
+    border: 2px solid white;
+    size: 100%;
+}
